@@ -11,8 +11,9 @@ A collection of AI-powered tools and utilities for modern applications.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/ai-powered-tools.git
-cd ai-powered-tools
+git clone https://github.com/ervishal/Bots.git
+cd Bots
+npm install
 ```
 
 ## Usage
